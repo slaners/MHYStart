@@ -6,7 +6,7 @@
         xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
         xmlns:local="clr-namespace:MHYStart"
         mc:Ignorable="d"
-        Title="原神启动器" Height="450" Width="400" Loaded="MyWindow_Loaded">
+        Title="米哈游账号切换工具" Height="450" Width="400" Loaded="MyWindow_Loaded">
     <!--将DataContext绑定到ViewModel实例，窗口内使用Binding来获取实例内的属性-->
     <Window.DataContext>
         <local:MainWindowViewModel/>
